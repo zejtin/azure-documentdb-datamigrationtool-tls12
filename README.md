@@ -1,4 +1,6 @@
 # Azure Cosmos DB data migration tool (Retired)
+# THIS IS JUST A SMALL UPDATE FOR THIS OLD TOOL TO SUPPORT TLS 1.2
+I will make a release when i got the time - USE archive BRANCH 
 
 **PLEASE NOTE**
  
